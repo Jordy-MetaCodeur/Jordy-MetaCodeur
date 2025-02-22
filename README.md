@@ -1,16 +1,15 @@
 ## Hi there 👋
 
 <!--
-**Jordy-MetaCodeur/Jordy-MetaCodeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on React, PostgreSQL, 
+- 🌱 I’m currently learning React, Next.js, Redux, PostgreSQL, Node.js & More 
+- 👯 I’m looking to collaborate on React projects and More
+- 🤔 I’m looking for help with React project, 
+- 💬 Ask me about React, Javascript, database(DBR)
+- 📫 How to reach me:
+ - 📩 Email: jordytsimba11@gmail.com  
+ - 💼 LinkedIn: www.linkedin.com/in/jordy-tsimba-MetaCodeur
+- 😄 Pronouns:He/Him
+- ⚡ Fun fact: I can turn coffee into code ☕💻 & I love open-source contributions!
 -->
